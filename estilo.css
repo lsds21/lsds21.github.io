@@ -1,0 +1,11 @@
+.titulo{
+	color:white;
+	text-align: center;
+	padding-top: 20px;
+}
+.fundo{
+	background:url(fundo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	  background-size: 100% 100%;
+}
